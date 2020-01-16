@@ -1,0 +1,2 @@
+zbytek v dìlení je 1
+pokud není, je to 0

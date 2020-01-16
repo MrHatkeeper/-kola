@@ -1,0 +1,33 @@
+body {
+  margin: 0px;
+  top: 0;
+}
+
+header {
+  text-align: center;
+  margin: 0px;
+}
+
+#navigace ul {
+  margin: 0px;
+}
+
+#navigace ul li {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0px 10px;
+}
+
+nav a {
+  display: inline-block;
+  font-size: 24px;
+}
+
+nav a:hover {
+  text-decoration: none;
+}
+
+#tabulka table {
+  border: 1px solid lightgray;
+}
+/*# sourceMappingURL=all.css.map */

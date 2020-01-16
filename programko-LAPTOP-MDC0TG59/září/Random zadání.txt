@@ -1,0 +1,22 @@
+
+akce Aquilla
+
+- pøijít k automatu
+
+- zjistit èástku produktu a zapamatovat
+
+- vyndat urèenou èástku
+
+- vhodit peníze do zdíøky
+
+- zjistit oznaèení a zapamatovat
+
+- napsat oznaèení na displej
+
+- poèkat
+
+- pokud je vhozená èástka vìtší, vyndat zbylé peníze z vyhazovacího místa
+
+- otevøít dvíøka
+
+- vyndat vyndat produkt

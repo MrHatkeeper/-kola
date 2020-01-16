@@ -1,0 +1,28 @@
+Chemickй reakce a reakce
+
+- dмj, vznikajн chem vazby
+  -dle fбze (skup.)
+      ->homogenн  -> l+l / s+s / g+g
+      ->heterogenн   -> l+s / g+l / ...
+      
+- dle vazeb
+    ->sluиovбnн = syntйza -> NH3 + HCl -> NH4Cl
+    ->rozklad = CaCO3 ->t CaO + CO2
+    ->podvojnб zбmмna = Na2CO3 + CuSO4 -> CuCO3 + Na2SO4
+    ->substituce (vytмsтovбnн) = CuSO4 + Fe -> FeSO4 + Cu
+  
+-dle ибstic
+     -> acidobasickй NaOH + HCl -> NaCl + H2O   
+
+
+aA + bB ------> cC + dD  = rovnost = Zбkon zachovбnн hmotnosti (Lomonosov 1751)
+Reaktanty  |  Produkty
+           |
+           |
+    reakиnн љipka
+    - smмr reakce
+    - reakиnн podmнnky = t - teplota
+                         P - tlak
+                         kat. - katalizбtor
+                         
+                         a, b, c, d - nepшeиtu => vyинslovбnн

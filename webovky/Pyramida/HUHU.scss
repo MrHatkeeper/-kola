@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(0, 224, 224);
+}
+
+#all div{
+    height: 10px;
+    width: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+$i: 1;
+
+@while ($i <= 76){
+    $i: $i + 1;
+  @each $ee in $i {
+    #all div:nth-child(#{$i}){
+        width: 10px*$i;
+        background: darken(orange, $i / 1.4);     
+    }
+  }
+}
+    

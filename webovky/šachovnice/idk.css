@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+}
+
+.color1 {
+  background-color: #8B4513;
+}
+
+.color2 {
+  background-color: rgba(238, 255, 0, 0.863);
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  border-collapse: collapse;
+  border: 5px solid white;
+}
+
+.square {
+  width: 50px;
+  height: 50px;
+}
+
+table, th, td {
+  border: none;
+}
+
+#color {
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+/*# sourceMappingURL=idk.css.map */

@@ -1,0 +1,54 @@
+
+body{
+    margin: 0px;
+}
+
+p{
+    text-align: center;
+    margin: 25px;
+    font-size: 28px;
+}
+
+ul {
+    margin: 0px;
+    background: #0600A9;
+    font: 28px Verdana;
+    min-width: 960px;
+    list-style-type: none;
+    display: block;
+    width: 1300px;
+    margin: 0 auto;
+}
+
+ul li{
+      display: inline-block;
+      padding: 0px 25px;
+      margin: 0px 5px;  
+
+}
+
+ul li:hover{
+    background-color: blue; 
+    color: white;
+}
+
+ul li div{
+    margin: 0px 5px;
+    padding: 0px 25px;
+
+}
+
+input{
+    display: inline-block;
+    padding: 16px 16px
+}
+
+#main {
+    display: block;
+}
+
+#main #lorem {
+    display: block;
+    width: 1200px;
+    margin: 0 auto;
+}

@@ -1,0 +1,38 @@
+Chem. prvky a chem slouèeniny
+        
+        chem  prvek = soubor atomù se stejným protonovým èíslem
+        
+        
+                    PSP
+           a                    X = znaèka
+            X                   z = protonové èíslo
+           z                            = poèet p+ a e-
+                                a = nukleonové èíslo
+                                        = poèet p+ a n0 (souèet)
+                                        
+            IZOTOP = jiný poèet neutronù 
+            
+            pø.  1    2    3
+                  H    D    T
+                 1    1    1
+                 
+                 
+                 H2O  D2O= tìžká voda - > prostì atomovky LULW
+                 
+        Chem. slouèeniny - prostì více prvkù v nìjakém pomìru
+                                                                    /-- nuklid
+                                                                atom 
+                                                                  | \-- izotopy
+                                                               molekula
+                                                                  |
+                                                              slouèenina
+                mot - stejnoatomové pø. H2 (H-H)                  |
+                   \- rùznoatomové                              smìsy
+                   
+            => H2O + NaCl = slaná voda = roztok (.)
+                                            = smìs
+            
+            Smìsi
+             = soubor více slouèenin ve formì složek
+                dle rozlišením okem: smìsi stejnorodé - > roztok pø. slaná voda, vzduch, 
+                                     smìsi rùznorodé

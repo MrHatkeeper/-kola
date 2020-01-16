@@ -1,0 +1,195 @@
+@media screen and (min-width: 1001px){
+    body{
+        background-color: #3A3A3A;
+        margin: auto;
+        font-family: 'Montserrat', sans-serif;
+        
+        color: white;        
+    }
+
+    header{
+        top: 0px;  
+        background-image: linear-gradient(black 80px, #3A3A3A);
+        text-align: center;
+        padding: 20px;
+    }
+
+    #list1 ul li{
+        list-style-type: none;
+        display: inline-block;
+    }
+
+    nav a{
+        font-size: 24px;
+        margin-right: 60px;
+        background: black;
+        text-decoration: none;
+        color: white;
+        padding: 20px;
+        border-radius: 25px;
+        border: solid 2px;
+        border-color:  darkgrey;
+    }
+
+    nav a:hover{
+        color: white;
+        box-shadow: 0px 0px 15px white;
+        text-decoration: none;
+    }
+
+    #main {
+        color: white;
+        text-align: center;
+        font-size: 70px;
+    }
+
+    a:link{
+        text-decoration: none;
+        color: white;
+    }
+
+    a:active {
+        color: white;
+    }  
+    
+    #content{
+        text-align: center;
+    }
+
+    h1{
+        text-decoration:  solid white;
+    }
+    h2{
+        text-decoration: underline  solid white;
+    }
+
+    h6{
+        margin: 0px;
+        font-size: 32px;
+    }
+
+    img{
+        border-color: white;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    #pic2{
+        border-width: 5px;
+        border-color: white;
+    }
+
+    #contacts{
+        list-style-type: none;
+    }
+
+    #contacts p{
+        font-size: 32px;
+    }
+
+    #idk{
+        margin: 10px 220px;
+    }
+
+    #loremXD{
+        font-size: 24px;
+    }
+}
+
+@media screen and (min-width: 720px) and (max-width: 1000px){
+    body{
+        background-color: #3A3A3A;
+        margin: auto;
+        font-family: 'Montserrat', sans-serif;
+        
+        color: white;        
+    }
+
+    header{
+        top: 0px;  
+        background-image: linear-gradient(black 80px, #3A3A3A);
+        text-align: center;
+        padding: 20px;
+    }
+
+    #list1 ul li{
+        list-style-type: none;
+        display: inline-block;
+    }
+
+    nav a{
+        font-size: 24px;
+        margin-right: 20px;
+        background: black;
+        text-decoration: none;
+        color: white;
+        padding: 20px;
+        border-radius: 25px;
+        border: solid 2px;
+        border-color:  darkgrey;
+    }
+
+    nav a:hover{
+        color: white;
+        box-shadow: 0px 0px 15px white;
+        text-decoration: none;
+    }
+
+    #main {
+        color: white;
+        text-align: center;
+        font-size: 70px;
+    }
+
+    a:link{
+        text-decoration: none;
+        color: white;
+    }
+
+    a:active {
+        color: white;
+    }  
+    
+    #content{
+        text-align: center;
+    }
+
+    h1{
+        text-decoration:  solid white;
+    }
+    h2{
+        text-decoration: underline  solid white;
+    }
+
+    h6{
+        margin: 0px;
+        font-size: 32px;
+    }
+
+    img{
+        border-color: white;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    #pic2{
+        border-width: 5px;
+        border-color: white;
+    }
+
+    #contacts{
+        list-style-type: none;
+    }
+
+    #contacts p{
+        font-size: 32px;
+    }
+
+    #idk{
+        margin: 10px 220px;
+    }
+
+    #loremXD{
+        font-size: 24px;
+    }
+}

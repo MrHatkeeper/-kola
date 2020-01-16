@@ -1,0 +1,73 @@
+body {
+    margin: 0px;
+}
+
+#hlavicka {
+        background-color: #71EC1F;
+        margin-top: auto;
+        list-style-type: none;
+        position: fixed;
+        text-align: left;
+        top: 0px;
+        left: 0px;
+        right: 0px;
+}
+
+#hlavicka ul li img {
+    width: 20px;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+ul {
+    margin: 0px;
+}
+
+#forest_time {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#categorie ul li {
+    padding: 0px 7px;
+}
+
+#forest_time2 {
+    text-align: center;
+    font-size: 10px;
+    color: #99A194;
+}
+
+#Category {
+    padding: 0px 500px;
+    font-size: 24px;
+    border-style: dotted;
+    border-width: 1px;
+    border-color: #D2D2D2;
+}
+
+#categorie {
+    text-align: center;
+    font-size: 16px;
+    list-style-type: none;
+    margin: 0px 16px;
+}
+
+#Category img{
+    width: 25px;
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 200px; 
+}
+
+#main img {
+    width: 240px;
+}
+

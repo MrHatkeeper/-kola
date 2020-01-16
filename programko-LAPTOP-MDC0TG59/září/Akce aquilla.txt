@@ -1,0 +1,96 @@
+
+akce Aquilla
+
+- pøijít k automatu
+
+- zjistit èástku produktu a zapamatovat
+
+- vyndat urèenou èástku korunách èeských
+
+- vhodit peníze do zdíøky
+
+- zjistit oznaèení a zapamatovat
+
+- napsat oznaèení na displej na automatu
+
+- poèkat
+
+- pokud je vhozená èástka vìtší, vyndat zbylé peníze z místa na automatu
+
+- otevøít dvíøka od automatu
+
+- vyndat produkt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Budík
+
+- vzít mobil
+
+- zapnout mobil
+
+- otevøít aplikaci budík
+
+- najít v aplikaci budík nastavit èas
+
+- nastavit èas a uložit
+
+- povolit buzení
+
+- vypnout aplikaci
+
+- pokud budík zapne signál Bzzzzz
+	-probudit se
+	- vzít mobil
+		- vypnout signál bzzz pomocí tlaèítka STOP
+- jinak pokraèovat v dané aktivitì
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

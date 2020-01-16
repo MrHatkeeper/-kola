@@ -1,0 +1,22 @@
+body {
+  background-color: grey;
+}
+
+#bomba-mrkev {
+  font-size: 3000px;
+}
+
+#bomba-spageta {
+  font-size: 3000px;
+}
+
+#sud {
+  background-color: #FF0000;
+  padding: 9px;
+}
+
+#lich {
+  background-color: green;
+  padding: 9px;
+}
+/*# sourceMappingURL=scss.css.map */

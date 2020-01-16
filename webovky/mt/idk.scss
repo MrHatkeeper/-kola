@@ -1,0 +1,52 @@
+$huhu:1, 2, 3, 4, 5, 6;
+
+@each $bebe in $huhu{
+    .ml-#{$bebe}{
+        margin-left: 10px*$bebe;
+    }
+    .mt-#{$bebe}{
+        margin-top: 10px*$bebe;
+    }
+    .m-#{$bebe}{
+        margin: 10px*$bebe;
+    }
+    .mr-#{$bebe}{
+        margin-right: 10px*$bebe;
+    }
+    .mb-#{$bebe}{
+        margin-bottom: 10px*$bebe;
+    }
+    .mx-#{$bebe}{
+        margin-right: 10px*$bebe;
+        margin-left: 10px*$bebe;
+    }
+    .my-#{$bebe}{
+        margin-top: 10px*$bebe;
+        margin-bottom: 10px*$bebe;
+    }
+    .pl-#{$bebe}{
+        padding-left: 10px*$bebe;
+    }
+    .pt-#{$bebe}{
+        padding-top: 10px*$bebe;
+    }
+    .p-#{$bebe}{
+        padding: 10px*$bebe;
+    }
+    .pr-#{$bebe}{
+        padding-right: 10px*$bebe;
+    }
+    .pb-#{$bebe}{
+        padding-bottom: 10px*$bebe;
+    }
+    .px-#{$bebe}{
+        padding-right: 10px*$bebe;
+        padding-left: 10px*$bebe;
+    }
+    .py-#{$bebe}{
+        padding-top: 10px*$bebe;
+        padding-bottom: 10px*$bebe;   
+    }
+}
+
+

@@ -1,0 +1,27 @@
+PSP
+
+prvek=soubor atomù se stejným protonovým èíslem -> elektroneutrální
+
+a
+ X -> platí zde periodický zákon
+z
+
+ - symboly
+ - lat názvy + èeské
+ - kapalina, plyn, pevná látka
+ 
+- perioda = øada (7)
+- skupiny = sloupce (18)
+
+- oxidaèní èíslo -> koncovka
+        I - ný
+        II - natý
+        III - itý
+        IV - ièitý
+        V - eèný
+        VI - oný
+        VII - istý
+        VIII - ièelý
+        IX - utý
+        
+    

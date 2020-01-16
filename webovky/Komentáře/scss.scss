@@ -1,0 +1,40 @@
+$inverse: 2;
+
+@if $inverse==1{
+    #sud{
+        background-color: green;
+        padding: 9px;
+    }
+        #lich{
+        background-color: #FF0000;
+        padding: 9px;        
+    }
+}
+
+
+body{
+    background-color: grey;
+}
+
+$osum: mrkev, spageta; 
+
+@each $spagety in $osum{
+    #bomba-#{$spagety}{
+        font-size: 3000px;
+
+    }
+}
+
+@if $inverse==2{
+    #sud{
+        background-color: #FF0000;
+        padding: 9px;
+
+    }
+
+    #lich{
+        background-color: green;
+        padding: 9px;
+
+    }
+}
