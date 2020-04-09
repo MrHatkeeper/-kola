@@ -1,0 +1,865 @@
+body {
+  background-color: #f0f0f0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+  margin-top: 200px;
+  font-size: 24px;
+  font-family: fantasy;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+#container {
+  text-align: center;
+}
+
+#failing {
+  color: red;
+  size: 16px;
+}
+
+#add-grade {
+  background-color: #009b00;
+  border: none;
+  border-radius: 25px;
+  font-size: 25px;
+}
+
+#count-grades {
+  background-color: #df0202;
+  border: none;
+  border-radius: 25px;
+  margin-left: auto;
+  font-size: 25px;
+}
+
+#count-grades:hover {
+  background-color: #b30000;
+}
+
+#add-grade:hover {
+  background-color: green;
+}
+
+#result {
+  font-size: 32px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade2 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade3 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade4 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade5 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade6 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade7 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade8 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade9 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade10 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade11 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade12 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade13 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade14 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade15 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade16 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade17 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade18 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade19 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade20 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade21 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade22 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade23 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade24 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade25 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade26 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade27 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade28 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade29 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade30 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade31 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade32 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade33 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade34 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade35 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade36 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade37 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade38 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade39 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade40 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade41 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade42 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade43 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade44 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade45 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade46 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade47 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade48 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade49 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade50 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade51 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade52 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade53 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade54 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade55 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade56 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade57 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade58 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade59 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade60 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade61 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade62 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade63 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade64 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade65 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade66 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade67 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade68 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade69 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade70 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade71 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade72 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade73 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade74 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade75 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade76 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade77 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade78 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade79 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade80 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade81 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade82 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade83 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade84 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade85 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade86 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade87 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade88 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade89 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade90 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade91 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade92 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade93 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade94 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade95 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade96 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade97 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade98 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade99 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade100 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+
+.grade101 {
+  margin-left: 10px;
+}
+
+.grade1 {
+  margin-left: 10px;
+}
+/*# sourceMappingURL=idk.css.map */

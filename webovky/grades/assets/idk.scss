@@ -1,0 +1,62 @@
+$i: 0;
+    body{
+        background-color: rgb(240, 240, 240);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-top: 200px;
+        font-size: 24px;
+        font-family: fantasy;
+    }
+
+    h1{
+        font-size: 64px;
+    }
+
+    #container{
+        text-align: center;
+    }
+
+    #failing{
+        color: red;
+        size: 16px;
+    }
+    #add-grade{
+        background-color: rgb(0, 155, 0);
+        border: none;
+        border-radius: 25px;
+        font-size: 25px;
+    }
+
+    #count-grades   {
+        background-color: rgb(223, 2, 2);
+        border: none;
+        border-radius: 25px;
+        margin-left: auto;
+        font-size:25px;
+    }
+    #count-grades:hover{
+        background-color: rgb(179, 0, 0);
+    }
+    #add-grade:hover{
+        background-color: rgb(0, 128, 0);
+    }
+
+    #result{
+        font-size: 32px;
+    }
+
+    @while($i <= 100){
+        $i: $i + 1;
+        @each $bebe in $i{
+            .grade#{$bebe}{
+                margin-left: 10px;
+            }
+            .grade1{
+                margin-left: 10px;
+            }
+        }
+    }
+
+
