@@ -1,0 +1,15 @@
+table, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding:0px; 
+    border-width:0px;
+}
+
+img{
+    width: 110px;
+}
+
+table{
+    background-image: url("JsSprity/idk.png");
+}
+
