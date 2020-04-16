@@ -21,11 +21,10 @@ table{
 #winDiv{
     font-size: 64px;
     text-align: center;
-    text-decoration: underline;
     color: rgb(0, 189, 0);
 }
-#btn1{
-    background-image: url("JsSprity/kindpng_791506.png");
+#restart{
+    background-color: black;
 }
 
 button{
