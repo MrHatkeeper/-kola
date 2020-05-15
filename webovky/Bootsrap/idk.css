@@ -3,7 +3,6 @@
 }
 
 body{
-    background-color: black;
     width: 1900px;
 }
 
@@ -62,3 +61,8 @@ body{
     border: none;
     text-shadow: none;
 }
+
+#typer{
+    color: black;
+}
+
