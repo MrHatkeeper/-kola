@@ -1,0 +1,71 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+    color: rgb(197, 197, 197);
+    text-shadow: black 5px 1px;
+}
+
+body{
+    background-color: black;
+    width: 1900px;
+}
+
+#loginTabulka{
+    display: block;
+    margin: 250px 720px;
+    background-color: rgb(49, 49, 49);
+    text-align: center;
+    border-radius: 25px;
+    padding-bottom: 40px;
+}
+
+#nadpis{
+    font-size: 39px;
+    text-align: center;
+    margin-top: -60px;
+}
+
+#inputs{
+    font-size: 32px;
+    text-align: center;
+    border: 1px solid rgb(112, 112, 112);
+    margin: 0px 30px;
+}
+
+#submitDiv{
+    text-align: right;
+    margin: 0px 30px;
+    border: 1px solid rgb(112, 112, 112);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#submitDiv1{
+    margin: 20px 60px;
+}
+
+button{
+    background-color: rgb(70, 70, 70);
+    text-decoration: none;
+    border: none;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-shadow: none;
+}
+
+button:active{
+    background-color: rgb(94, 94, 94);
+    text-decoration: none;
+    border: none;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-shadow: none;
+}
+
+.tabulka{
+    color: black;
+    text-decoration: none;
+    border: none;
+    text-shadow: none;
+}

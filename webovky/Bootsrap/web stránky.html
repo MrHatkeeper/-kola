@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<HTML lang="cs-CZ">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"> 
+    <link rel="stylesheet" href="idk.css">
+    <title>Title</title>
+</head>
+ <body>
+    <div id="loginTabulka">
+        <div id="nadpis">
+            <h1>Login</h1>
+        </div>
+        <div id="inputs">
+            <label for="nick">Nickname: </label>
+            <input type="text" class="tabulka" name="fname">
+            <p></p>
+            <label for="password">Password: </label>
+            <input type="text" class="tabulka" name="lname"><br><br>
+        </div>
+        <div id="submitDiv">
+            <div id="submitDiv1">
+                <button type="button" id="submitDiv2" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Confirm</button>
+            </div>
+        </div>
+</div> 
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Vaše data budou prodány do otroctví</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Souhlasit</button>
+          <button type="button" class="btn btn-primary">Souhlasit</button>
+        </div>
+      </div>
+    </div>
+  </div>
+ <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+ <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+</body>
+</HTML>
