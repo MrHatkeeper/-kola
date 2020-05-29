@@ -1,0 +1,96 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: left;
+}
+
+ ul li{
+     background-color: red;
+     list-style-type: none;
+ }
+
+ #content{
+     background-color: rgb(37, 37, 37); 
+     text-align: center;
+     margin: 100px 400px;
+     border: solid 1px rgb(119, 119, 119);
+     text-shadow: black 2px 2px;
+ }
+
+ .task{
+    margin: 10px 0px;
+    border: solid 1px rgb(59, 59, 59);
+    padding: 0px 50px;
+    background-color: rgb(100, 100, 100);
+ }
+
+ .col-6{
+     text-align: left;
+     margin: 0px 50px;
+ }
+
+.btn-outline-secondary{
+    color: white;
+}
+
+ 
+
+ #buttons{
+     background-color: rgb(68, 68, 68);
+     text-align: left;
+     padding: 10px 40px;
+ }
+
+ #add{
+    margin: 10px 40px;
+    padding: 0px 10px;
+    background-color: rgb(112, 112, 112);
+    text-decoration: none; 
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+ }
+
+ #add:hover{
+    margin: 10px 40px;
+    padding: 0px 10px;
+    background-color: rgb(34, 34, 34);
+    text-decoration: none; 
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+ }
+
+.day{
+    display: grid;
+    border: solid rgb(53, 53, 53) 1px;
+    padding: 5px 0px;
+    background-color: rgb(43, 43, 43);
+}
+
+#inContent{
+    margin: 10px 40px;
+    
+}
+
+.nav-link{
+    background-color: rgb(175, 175, 175); 
+    border: 1px solid rgb(139, 139, 139);
+    margin-left: 10px;;
+}
+
+ul li{
+    background-color: white;
+}
+
+.navbar{
+    background-color: grey; 
+    opacity: 70%;
+}
